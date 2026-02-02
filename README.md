@@ -1,4 +1,4 @@
-# Scooter Sharing Analytics - ML & DL Project
+# Kicksharing Analytics - ML & DL Project
 
 Проект №3 по дисциплине Современные Методы Анализа Данных и Машинного Обучения в НИУ ВШЭ
 
